@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio
+# Primeiro-Repositorio
 Apenas um teste de repositório
